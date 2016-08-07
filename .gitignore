@@ -1,0 +1,12 @@
+.sonar
+data
+nb-configuration.xml
+nbactions.xml
+target
+build
+classification-library/build
+neural-network-designer/build 
+*.bak
+*.log
+tmp
+/nbproject/

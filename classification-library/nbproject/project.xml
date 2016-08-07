@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.neurpheus.classification</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <friend-packages>
+                <friend>org.neurpheus.classification.neuralnet.designer</friend>
+                <package>org.neurpheus.classification</package>
+                <package>org.neurpheus.classification.neuralnet</package>
+                <package>org.neurpheus.classification.neuralnet.impl</package>
+                <package>org.neurpheus.classification.neuralnet.xml</package>
+                <package>org.neurpheus.classification.training</package>
+                <package>org.neurpheus.classification.training.gui</package>
+            </friend-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/classification.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/classification.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

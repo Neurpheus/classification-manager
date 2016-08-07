@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.neurpheus.classification.neuralnet.designer
+OpenIDE-Module-Layer: org/neurpheus/classification/neuralnet/designer/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/neurpheus/classification/neuralnet/designer/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
+Name: org/neurpheus/classification/neuralnet/architecture/NeuralNetworkArchitectureDataLoader.class
+OpenIDE-Module-Class: Loader
+
+Name: org/neurpheus/classification/neuralnet/designer/ann/NeuralNetworkDataLoader.class
+OpenIDE-Module-Class: Loader
+
